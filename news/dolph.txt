@@ -1,0 +1,4 @@
+<hr><div class='entry'><p><span class='w3-tag w3-small w3-padding w3-red'>quiero rock
+</p></span><span class='w3-tag w3-small w3-theme-d2'>19, April, 2020 06:55:pm
+</span><br><div class='w3-container w3-card-2 w3-white w3-round w3-margin'><br><img src='img/dolph.jpg' alt='Avatar' class='w3-left w3-circle w3-margin-right' style='width:60px'>dolph<br><p>me gusta el rock alternativo quiero tener una banda y busco sus integrantes&nbsp;
+</p> </div></div>
