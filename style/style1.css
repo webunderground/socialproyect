@@ -1,0 +1,14 @@
+﻿
+
+#icon{
+    width:60px;
+    height:100px;
+    padding:0px;
+    margin:0px;
+    border:0px;
+    float:left;
+    background-image:url(icon.gif);
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+
