@@ -1,0 +1,1 @@
+<div class='w3-container w3-card-2 w3-white w3-round w3-margin'><br><img src='img/Barney.jpg' alt='Avatar' class='w3-left w3-circle w3-margin-right' style='width:60px'><b>Barney</b><br><small><small><i class='fa fa-clock-o'></i>&nbsp;19, April, 2020 07:16:pm</small></small><br><p>quiero una cerveza fria </p> </div>

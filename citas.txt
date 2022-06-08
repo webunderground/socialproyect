@@ -1,0 +1,3 @@
+http://localhost/socialproyect/video/eloise.mp4
+http://localhost/socialproyect/video/popeye.ogv
+http://localhost/socialproyect/video/video.ogv

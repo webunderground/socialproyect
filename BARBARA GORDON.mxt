@@ -1,0 +1,1 @@
+<div class='w3-container w3-card-2 w3-white w3-round w3-margin'><br><img src='img/BARBARA GORDON.jpg' alt='Avatar' class='w3-left w3-circle w3-margin-right' style='width:60px'><b>BARBARA GORDON</b><br><small><small><i class='fa fa-clock-o'></i>&nbsp;28, April, 2020 10:45:pm</small></small><br><p>este es mi muro</p> </div>
