@@ -1,0 +1,1 @@
+<div class='w3-container w3-card-2 w3-white w3-round w3-margin'><br><img src='img/nelson.jpg' alt='Avatar' class='w3-left w3-circle w3-margin-right' style='width:60px'><b>nelson</b><i class='fa fa-clock-o'></i>&nbsp;25, March, 2020 10:26:pm<br><p>aja</p> </div>

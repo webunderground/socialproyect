@@ -1,0 +1,1 @@
+<div class='w3-container w3-card-2 w3-white w3-round w3-margin'><br><img src='img/Martin.jpg' alt='Avatar' class='w3-left w3-circle w3-margin-right' style='width:60px'><b>Martin</b><i class='fa fa-clock-o'></i>&nbsp;26, March, 2020 08:53:pm<br><p>soy el mejor</p> </div>
