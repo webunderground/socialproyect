@@ -1,3 +1,2 @@
-audio/Mojada.mp3
-audio/brutal.mp3
-audio/trabestis.mp3
+audio/television-simpsons.mp3
+audio/television-closing-theme.mp3
