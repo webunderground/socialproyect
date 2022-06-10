@@ -57,7 +57,7 @@ fclose($file);
 	 <a href="mensaje.php" class="w3-bar-item w3-button">avisos</a>
       <a href="chat.php" class="w3-bar-item w3-button">chat</a>
 	  <a href="muro.php" class="w3-bar-item w3-button">muro</a>
-      <a href="blog.php" class="w3-bar-item w3-button">blog</a>
+     
 	  <a href="logout.php" class="w3-bar-item w3-button">salir</a>
     </div>
   </div>
